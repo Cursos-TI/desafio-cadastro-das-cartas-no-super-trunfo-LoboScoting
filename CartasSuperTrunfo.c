@@ -18,6 +18,8 @@ char estado2='B';
 char codigo2[20]="C07";
 char cidade2[20]="Arapiraca";
 
+printf("Desafio-Cadastro das cartas no super trunfo\n");
+printf("\n");
 printf("Carta 1:\n");
 printf("Estado: %c\n", estado1);
 printf("Codigo: %s\n",codigo1);
@@ -37,7 +39,8 @@ printf("População: %d\n", populacao2);
 printf("Área: %f km2\n", area2);
 printf("PIB: %f bilhões de reais\n" , pib2);
 printf("Numero de pontos turisticos: %d\n", turisticos2);
-
+printf("\n");
+printf("Novo commit\n");
 return 0;
 
 
